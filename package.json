@@ -1,0 +1,45 @@
+{
+	"name": "RedVip",
+	"version": "1.17.02",
+	"description": "Server game By MrT98 (Red T)",
+	"main": "server.js",
+	"scripts": {
+		"start": "node server.js",
+		"test": "echo \"Error: no test specified\" && exit 1"
+	},
+	"dependencies": {
+		"bcrypt": "^3.0.6",
+		"body-parser": "^1.19.0",
+		"cron": "^1.7.2",
+		"dotenv": "^8.1.0",
+		"ejs": "^2.7.1",
+		"express": "^4.17.1",
+		"express-ws": "^4.0.0",
+		"is-mobile": "^2.1.0",
+		"mongoose": "^5.7.1",
+		"mongoose-auto-increment-reworked": "^1.2.1",
+		"mongoose-long": "^0.2.1",
+		"node-telegram-bot-api": "^0.30.0",
+		"request": "^2.88.0",
+		"saslprep": "^1.0.3",
+		"shortid": "^2.2.15",
+		"svg-captcha": "^1.4.0",
+		"svg2img": "^0.6.1",
+		"validator": "^11.1.0"
+	},
+	"devDependencies": {},
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/MrT98/RedVip.git"
+	},
+	"homepage": "https://github.com/MrT98/RedVip",
+	"bugs": {
+		"url": "https://github.com/MrT98/RedVip/issues"
+	},
+	"author": {
+		"name": "Red T",
+		"email": "toan.vp98.wapmaster@gmail.com",
+		"url": "https://github.com/MrT98"
+	},
+	"license": "ISC"
+}
