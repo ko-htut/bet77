@@ -1,7 +1,7 @@
 {
-	"name": "RedVip",
+	"name": "bet77",
 	"version": "1.17.02",
-	"description": "Server game By MrT98 (Red T)",
+	"description": "Server game By kh (bet77)",
 	"main": "server.js",
 	"scripts": {
 		"start": "node server.js",
@@ -30,16 +30,16 @@
 	"devDependencies": {},
 	"repository": {
 		"type": "git",
-		"url": "git+https://github.com/MrT98/RedVip.git"
+		"url": "git+https://github.com/ko-htut/bet77.git"
 	},
-	"homepage": "https://github.com/MrT98/RedVip",
+	"homepage": "https://github.com/ko-htut/bet77",
 	"bugs": {
-		"url": "https://github.com/MrT98/RedVip/issues"
+		"url": "https://github.com/ko-htut/bet77/issues"
 	},
 	"author": {
 		"name": "Red T",
-		"email": "toan.vp98.wapmaster@gmail.com",
-		"url": "https://github.com/MrT98"
+		"email": "info@kohtut.me",
+		"url": "https://github.com/ko-htut"
 	},
 	"license": "ISC"
 }
