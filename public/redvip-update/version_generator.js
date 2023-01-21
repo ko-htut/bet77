@@ -4,9 +4,9 @@ var path   = require('path');
 var crypto = require('crypto');
 
 var manifest = {
-	packageUrl: 'http://redvip.club/redvip-update/redvip-remote-asset/',
-	remoteManifestUrl: 'http://redvip.club/redvip-update/redvip-remote-asset/project.manifest',
-	remoteVersionUrl: 'http://redvip.club/redvip-update/redvip-remote-asset/version.manifest',
+	packageUrl: 'https://bet.ovo-god.com/redvip-update/redvip-remote-asset/',
+	remoteManifestUrl: 'https://bet.ovo-god.com/redvip-update/redvip-remote-asset/project.manifest',
+	remoteVersionUrl: 'https://bet.ovo-god.com/redvip-update/redvip-remote-asset/version.manifest',
 	version: '1.17.2.0',
 	assets: {},
 	searchPaths: []
