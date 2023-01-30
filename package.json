@@ -24,7 +24,7 @@
 		"saslprep": "^1.0.3",
 		"shortid": "^2.2.15",
 		"svg-captcha": "^1.4.0",
-		"svg2img": "^0.6.1",
+		"svg2img": "^1.0.0-beta.2",
 		"validator": "^11.1.0"
 	},
 	"devDependencies": {},
